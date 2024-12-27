@@ -1,7 +1,5 @@
 # Hello, I'm Ayat - also known as [Jay] 👋
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
-
 I'm a passionate **Full Stack Developer**. I enjoy baking, exploring new places, and coding! ✍️🍰
 
 - 🌿 Currently diving deep into **React & DevOps** 👨‍💻
@@ -21,3 +19,5 @@ I'm a passionate **Full Stack Developer**. I enjoy baking, exploring new places,
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&logoColor=white)
