@@ -2,7 +2,7 @@
 
 I'm a passionate **Full Stack Developer**. I enjoy baking, exploring new places, and coding! ✍️🍰
 
-- 🌿 Currently diving deep into **React & Cloud Technologies** 👨‍💻
+- 🌿 Currently diving deep into **React & Cloud Technologies**  👩‍💻
 - 🎯 2025 Goals: Build scalable and intuitive applications!
 - 🎥 Fun fact: I'm always experimenting with new recipes and love photography! 📸
 
